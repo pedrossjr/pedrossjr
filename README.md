@@ -49,3 +49,5 @@
 ⚽Futebol\
 🏖️Praia\
 🏃‍♂️Exercícios
+
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/pedrossjr/count.svg" /></p>
