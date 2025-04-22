@@ -9,7 +9,6 @@
 - Pós-graduação em Cibercrime e Ciberecurity - Prevenção e Investigação de Crimes Digitais
 - Pós-graduação em Computação Forense
 - Pós-graduação em Desenvolvimento Web Full Stack
-- Pós-graduação em Gestão de Tecnologia da Informação
 
 ## 📈 GitHub Stats
 
