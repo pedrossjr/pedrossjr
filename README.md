@@ -6,7 +6,7 @@
 
 - Graduação em Análise de Sistemas da Computação
 - Pós-graduação em Segurança da Informação
-- Pós-graduação em Cibercrime e Ciberecurity - Prevenção e Investigação de Crimes Digitais
+- Pós-graduação em Cibercrime e Ciberecurity
 - Pós-graduação em Computação Forense
 - Pós-graduação em Desenvolvimento Web Full Stack
 
