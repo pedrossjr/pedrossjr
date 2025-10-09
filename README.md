@@ -16,6 +16,8 @@
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrossjr&layout=compact&langs_count=7&theme=prussian)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pedrossjr)
+
 ## 🔗 Redes Sociais
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/pedrossjr?tab=repositories/)
@@ -48,5 +50,3 @@
 ⚽Futebol\
 🏖️Praia\
 🏃‍♂️Exercícios
-
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/pedrossjr/count.svg" /></p>
