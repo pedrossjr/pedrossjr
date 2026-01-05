@@ -1,6 +1,6 @@
 ## 💻 Pedro Silva
 
-👋 Olá, meu nome é Pedro e resido em Magé-RJ, há bastante tempo atuando no mercado de tecnologia, procuro constantemente aprimorar minhas habilidades técnicas, sendo uma pessoa autodidata que busca sempre está aprendendo novas tecnologias seja, através de pesquisas, participação em eventos ou cursos que possam expandir meus conhecimentos e assim ultrapassar meus limites.
+👋 Olá, meu nome é Pedro e resido em Magé-RJ, há mais de 20 anos no mercado de tecnologia, profissional autodidata, procuro constantemente aprimorar minhas habilidades técnicas, sendo uma pessoa autodidata que busca sempre está aprendendo novas tecnologias seja, através de pesquisas, participação em eventos ou cursos que possam expandir meus conhecimentos e assim ultrapassar meus limites.
 
 ## 📚 Formações
 
@@ -11,10 +11,6 @@
 - Pós-graduação em Desenvolvimento Web Full Stack
 
 ## 📈 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=pedrossjr&show_icons=true&theme=prussian)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrossjr&layout=compact&langs_count=7&theme=prussian)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pedrossjr)
 
