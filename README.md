@@ -9,6 +9,7 @@
 - Pós-graduação em Cibercrime e Ciberecurity
 - Pós-graduação em Computação Forense
 - Pós-graduação em Desenvolvimento Web Full Stack
+- Pós-graduação em Engenharia de Software (Cursando)
 
 ## 📈 GitHub Stats
 
