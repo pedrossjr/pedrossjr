@@ -4,12 +4,12 @@
 
 ## 📚 Formações
 
-- Graduação em Análise de Sistemas da Computação
-- Pós-graduação em Segurança da Informação
-- Pós-graduação em Cibercrime e Ciberecurity
-- Pós-graduação em Computação Forense
-- Pós-graduação em Desenvolvimento Web Full Stack
-- Pós-graduação em Engenharia de Software (Cursando)
+- Graduação em Análise de Sistemas da Computação (UNESA)
+- Pós-graduação em Segurança da Informação (UNESA)
+- Pós-graduação em Cibercrime e Ciberecurity (UNYLEYA)
+- Pós-graduação em Computação Forense (IPOG)
+- Pós-graduação em Desenvolvimento Web Full Stack (UNYLEYA)
+- Pós-graduando em Engenharia de Software (PUC-Rio)
 
 ## 📈 GitHub Stats
 
